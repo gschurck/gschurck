@@ -1,5 +1,5 @@
 ### Hello
-- 📈 I'm currently working on a trading bot for cryptocurrency, called TraDOGE
+- 📈 I'm currently working on a trading bot for cryptocurrency in Python, called [TraDOGE](https://github.com/gschurck/tradoge)
 - 💰 I plan to develop a website to help investing in cryptocurrencies, with exchanges API
 - 🎓 I'm improving my skills in software/web development and cryptocurrency knowledge
 <!--
