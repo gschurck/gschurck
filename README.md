@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hello
+- 📈 I'm currently working on a trading bot for cryptocurrency, called TraDOGE
+- 💰 I plan to develop a website to help investing in cryptocurrencies, with exchanges API
+- 🎓 I'm improving my skills in software/web development and cryptocurrency knowledge
 <!--
 **gschurck/gschurck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
