@@ -2,11 +2,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-guillaumeschurck-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guillaumeschurck/)](https://www.linkedin.com/in/guillaumeschurck/) [![Github Badge](https://img.shields.io/badge/-gschurck-grey?style=flat&logo=github&logoColor=white&link=https://github.com/gschurck/)](https://www.github.com/gschurck/) [![Twitter Badge](https://img.shields.io/badge/-gschurck-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/gschurck/)](https://www.twitter.com/gschurck/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://gschurck.github.io/)](https://gschurck.github.io/) 
 
 I am a french student in computer science, at engineering school ENSIIE.
-
+<!--
 - 📈 I'm currently working on a trading bot for cryptocurrency in Python, [TraDOGE](https://github.com/gschurck/tradoge)
 - 💰 I plan to develop a website to help investing in cryptocurrencies, with exchanges API
 - 🎓 I'm improving my skills in software/web development and cryptocurrency knowledge
-<!--
+
 **gschurck/gschurck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
