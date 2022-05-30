@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 
 ## Projects
 
-I am currently working on studying the feasibility for 2 big personal projects :
+I am currently working on studying the feasibility of 2 big personal projects :
 - A new innovative way to find deep underground softwares according to your needs
 - A cloud PaaS hosting service for side projects
