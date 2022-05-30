@@ -34,3 +34,7 @@ Here are some ideas to get you started:
 I am currently working on studying the feasibility of 2 big personal projects :
 - A new innovative way to find deep underground softwares according to your needs
 - A cloud PaaS hosting service for side projects
+
+### Areas of interest
+
+**IT in general** : Software engineering, Web development, Cloud, Blockchain, Security...
