@@ -28,3 +28,9 @@ Here are some ideas to get you started:
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=gschurck&show_icons=true&include_all_commits=true&theme=github_dark)](https://github.com/gschurck/tradoge)
 ![](https://hit.yhype.me/github/profile?user_id=21091232)
+
+## Projects
+
+I am currently working on studying the feasibility for 2 big personal projects :
+- A new innovative way to find deep underground softwares according to your needs
+- A cloud PaaS hosting service for side projects
