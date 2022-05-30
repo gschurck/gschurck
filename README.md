@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 -->
 
-## Some of my Github Stats
+## Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=gschurck alt=gschurck /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=gschurck&show_icons=true&include_all_commits=true&theme=github_dark)](https://github.com/gschurck/tradoge)
@@ -31,10 +31,12 @@ Here are some ideas to get you started:
 
 ## Projects
 
+- [TraDOGE](https://github.com/gschurck/tradoge)
+
 I am currently working on studying the feasibility of 2 big personal projects :
 - A new innovative way to find deep underground softwares according to your needs
 - A cloud PaaS hosting service for side projects
 
 ### Areas of interest
 
-**IT in general** : Software engineering, Web development, Cloud, Blockchain, Security...
+**Almost everything in IT** : Software engineering, Web development, Cloud, Linux, Blockchain, Security...
