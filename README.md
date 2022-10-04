@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - [TraDOGE](https://github.com/gschurck/tradoge)
 
 I am currently working on studying the feasibility of 2 big personal projects :
-- A new innovative way to find deep underground softwares according to your needs
+- [A new innovative way to find deep underground softwares according to your needs](https://gschurck.github.io/projects/software_merger/)
 - A cloud PaaS hosting service for side projects
 
 ### Areas of interest
