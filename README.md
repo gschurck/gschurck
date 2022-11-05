@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 - [TraDOGE](https://github.com/gschurck/tradoge)
 
-I am currently working on studying the feasibility on a few personal projects :
+I am currently working on a few personal projects :
 - [A new innovative way to find deep underground softwares according to your needs](https://gschurck.github.io/projects/software_merger/)
 - A tool to optimize Docker containers resources consumption on a local environment
 - A website to easily search and find memes
