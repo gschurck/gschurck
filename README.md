@@ -35,7 +35,8 @@ Here are some ideas to get you started:
 
 I am currently working on studying the feasibility of 2 big personal projects :
 - [A new innovative way to find deep underground softwares according to your needs](https://gschurck.github.io/projects/software_merger/)
-- A cloud PaaS hosting service for side projects
+- A tool to optimize Docker containers resources consumption on a local environment
+- A website to easily search and find memes
 
 ### Areas of interest
 
