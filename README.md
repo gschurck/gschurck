@@ -1,5 +1,8 @@
 # Hello, I'm Guillaume Schurck
-[![Linkedin Badge](https://img.shields.io/badge/-guillaumeschurck-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guillaumeschurck/)](https://www.linkedin.com/in/guillaumeschurck/) [![Github Badge](https://img.shields.io/badge/-gschurck-grey?style=flat&logo=github&logoColor=white&link=https://github.com/gschurck/)](https://www.github.com/gschurck/) [![Twitter Badge](https://img.shields.io/badge/-gschurck-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/gschurck/)](https://www.twitter.com/gschurck/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://gschurck.github.io/)](https://gschurck.github.io/) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/guillaumeschurck/)](https://www.linkedin.com/in/guillaumeschurck/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=for-the-badge)](https://www.twitter.com/gschurck/)
+
+[![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://gschurck.github.io/)](https://gschurck.github.io/) 
 
 I am a french student in computer science, at engineering school ENSIIE.
 <!--
@@ -41,3 +44,20 @@ I am currently working on studying the feasibility of 2 big personal projects :
 ### Areas of interest
 
 **Almost everything in IT** : Software engineering, Web development, Cloud, Linux, Blockchain, Security...
+
+## Stack
+
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
+![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=for-the-badge)
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
+![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
+![OpenJDK Badge](https://img.shields.io/badge/OpenJDK-FFF?logo=openjdk&logoColor=000&style=for-the-badge)
+![Svelte Badge](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=fff&style=for-the-badge)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
+![Angular Badge](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=fff&style=for-the-badge)
+![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
+![Arch Linux Badge](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=fff&style=for-the-badge)
+
+### Learning
+![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=for-the-badge)
+![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge)
