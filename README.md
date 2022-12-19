@@ -34,12 +34,12 @@ Here are some ideas to get you started:
 
 ## Projects
 
-- [TraDOGE](https://github.com/gschurck/tradoge)
-
-I am currently working on a few personal projects :
-- [A new innovative way to find deep underground softwares according to your needs](https://gschurck.github.io/projects/software_merger/)
-- A tool to optimize Docker containers resources consumption on a local environment
-- A website to easily search and find memes
+- :technologist: Work in progress :
+  - [:dog: TraDOGE](https://github.com/gschurck/tradoge)
+  - [:mag: An innovative way to find deep underground softwares according to your needs](https://gschurck.github.io/projects/software_merger/)
+  - :trollface: A website to easily search and find memes
+- :memo: :date: Planned :
+  - :whale2: A tool to optimize Docker containers resources consumption on a local environment 
 
 ### Areas of interest
 
