@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 - :technologist: Work in progress :
   - [:dog: TraDOGE](https://github.com/gschurck/tradoge)
-  - [:mag: An innovative way to find deep underground softwares according to your needs](https://gschurck.github.io/projects/software_merger/)
+  - [:mag: An innovative way to find deep underground softwares according to your needs](https://gschurck.github.io/projects/software-finder/)
   - :trollface: A website to easily search and find memes
 - :date: Planned :
   - :whale2: A tool to optimize Docker containers resources consumption on a local environment 
