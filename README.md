@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 ## Projects
 
 - :technologist: Work in progress :
-  - [:dog: TraDOGE](https://github.com/gschurck/tradoge)
-  - [:mag: Software Finder: An innovative way to find underground softwares according to your needs](https://gschurck.github.io/projects/software-finder/)
+  - :dog: [TraDOGE](https://github.com/gschurck/tradoge)
+  - :mag: [Software Finder: An innovative way to find underground softwares according to your needs](https://gschurck.github.io/projects/software-finder/)
   - :trollface: A website to easily search and find memes
 - :date: Planned :
-  - :whale2: A tool to optimize Docker containers resources consumption on a local environment 
+  - :whale2: [A tool to optimize Docker containers resources consumption on a local environment](https://gschurck.github.io/projects/lightwhale/)
 
 ### Areas of interest
 
