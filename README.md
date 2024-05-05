@@ -36,12 +36,13 @@ Here are some ideas to get you started:
 
 ## Projects
 - ✅ Done :
-  - :trollface: [Trouve Ton Meme](https://trouveton.meme/) A website to easily search and find memes
+  - :trollface: [Trouve Ton Meme](https://trouveton.meme/) : Website to easily search and find memes
+  - 💰 [Moneta](https://deta.space/discovery/@gschurck/moneta) : Portfolio and investments tracker, connected to banks and cryptocurrency exchanges
 - :technologist: Work in progress :
   - :dog: [TraDOGE](https://github.com/gschurck/tradoge) : Cryptocurrency trading bot reacting to tweets
-  - :mag: [Software Finder](https://gschurck.github.io/projects/software-finder/) : An innovative way to find underground softwares according to your needs
+  - :mag: [Software Finder](https://gschurck.github.io/projects/software-finder/) : Innovative way to find underground softwares according to your needs
 - :date: Planned :
-  - :whale2: [Lightwhale](https://gschurck.github.io/projects/lightwhale/) : A tool to optimize Docker containers resources consumption on a local environment
+  - :whale2: [Lightwhale](https://gschurck.github.io/projects/lightwhale/) : Tool to optimize Docker containers resources consumption on a local environment
 
 ### Areas of interest
 
