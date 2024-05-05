@@ -1,10 +1,13 @@
+<!--
 # Hello, I'm Guillaume Schurck
+
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/guillaumeschurck/)](https://www.linkedin.com/in/guillaumeschurck/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=for-the-badge)](https://www.twitter.com/gschurck/)
 
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://gschurck.github.io/)](https://gschurck.github.io/) 
 
 I am a french student in computer science, at engineering school ENSIIE.
+-->
 <!--
 - 📈 I'm currently working on a trading bot for cryptocurrency in Python, [TraDOGE](https://github.com/gschurck/tradoge)
 - 💰 I plan to develop a website to help investing in cryptocurrencies, with exchanges API
@@ -24,20 +27,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gschurck&layout=compact)](https://github.com/gschurck/github-readme-stats)
 
--->
-
 ## Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=gschurck alt=gschurck /> </p>
+-->
+<!-- <p align=left> <img src=https://komarev.com/ghpvc/?username=gschurck alt=gschurck /> </p> -->
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=gschurck&show_icons=true&include_all_commits=true&theme=github_dark)](https://github.com/gschurck/tradoge)
 ![](https://hit.yhype.me/github/profile?user_id=21091232)
 
 ## Projects
-
-- :technologist: Work in progress :
-  - :dog: [TraDOGE](https://github.com/gschurck/tradoge)
-  - :mag: [Software Finder: An innovative way to find underground softwares according to your needs](https://gschurck.github.io/projects/software-finder/)
+- ✔️ Done :
   - :trollface: A website to easily search and find memes
+- :technologist: Work in progress :
+  - :dog: [TraDOGE](https://github.com/gschurck/tradoge) : Cryptocurrency trading bot reacting to tweets
+  - :mag: [Software Finder: An innovative way to find underground softwares according to your needs](https://gschurck.github.io/projects/software-finder/)
 - :date: Planned :
   - :whale2: [A tool to optimize Docker containers resources consumption on a local environment](https://gschurck.github.io/projects/lightwhale/)
 
@@ -54,7 +56,6 @@ Here are some ideas to get you started:
 ![OpenJDK Badge](https://img.shields.io/badge/OpenJDK-FFF?logo=openjdk&logoColor=000&style=for-the-badge)
 ![Svelte Badge](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=fff&style=for-the-badge)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
-![Angular Badge](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=fff&style=for-the-badge)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
 ![Arch Linux Badge](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=fff&style=for-the-badge)
 
