@@ -35,13 +35,13 @@ Here are some ideas to get you started:
 ![](https://hit.yhype.me/github/profile?user_id=21091232)
 
 ## Projects
-- ✔️ Done :
-  - :trollface: A website to easily search and find memes
+- ✅ Done :
+  - :trollface: [Trouve Ton Meme](https://trouveton.meme/) A website to easily search and find memes
 - :technologist: Work in progress :
   - :dog: [TraDOGE](https://github.com/gschurck/tradoge) : Cryptocurrency trading bot reacting to tweets
-  - :mag: [Software Finder: An innovative way to find underground softwares according to your needs](https://gschurck.github.io/projects/software-finder/)
+  - :mag: [Software Finder](https://gschurck.github.io/projects/software-finder/) : An innovative way to find underground softwares according to your needs
 - :date: Planned :
-  - :whale2: [A tool to optimize Docker containers resources consumption on a local environment](https://gschurck.github.io/projects/lightwhale/)
+  - :whale2: [Lightwhale](https://gschurck.github.io/projects/lightwhale/) : A tool to optimize Docker containers resources consumption on a local environment
 
 ### Areas of interest
 
