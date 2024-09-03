@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 ## Stats
 -->
 <!-- <p align=left> <img src=https://komarev.com/ghpvc/?username=gschurck alt=gschurck /> </p> -->
-
+<!-- STATS
 ![Github stats](https://github-readme-stats-beta-mauve.vercel.app/api?username=gschurck&show_icons=true&include_all_commits=true&theme=github_dark)
 ![](https://hit.yhype.me/github/profile?user_id=21091232)
-
+-->
 ## Projects
 - ✅ Done :
   - :trollface: [Trouve Ton Meme](https://trouveton.meme/) : Website to easily search and find memes
