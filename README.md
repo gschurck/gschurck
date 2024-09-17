@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 ## Projects
 - ✅ Done :
   - :trollface: [Trouve Ton Meme](https://trouveton.meme/) : Website to easily search and find memes
+  - 🍺 [Fuzzybrew](https://github.com/gschurck/fuzzybrew) : TUI tool to quickly search and install homebrew packages
   - 💰 [Moneta](https://deta.space/discovery/@gschurck/moneta) : Portfolio and investments tracker, connected to banks and cryptocurrency exchanges
 - 👨‍💻 Work in progress :
   - 🪙 [TraDOGE](https://github.com/gschurck/tradoge) : Cryptocurrency trading bot reacting to tweets
