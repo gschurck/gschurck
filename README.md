@@ -37,21 +37,22 @@ Here are some ideas to get you started:
 ## Projects
 - ✅ Done :
   - :trollface: [Trouve Ton Meme](https://trouveton.meme/) : Website to easily search and find memes
-  - 🍺 [Fuzzybrew](https://github.com/gschurck/fuzzybrew) : TUI tool to quickly search and install homebrew packages
-  - 💰 [Moneta](https://deta.space/discovery/@gschurck/moneta) : Portfolio and investments tracker, connected to banks and cryptocurrency exchanges
+  - 🍺 [Fuzzybrew](https://github.com/gschurck/fuzzybrew) : Terminal UI to quickly search and install homebrew packages
 - 👨‍💻 Work in progress :
   - 🪙 [TraDOGE](https://github.com/gschurck/tradoge) : Cryptocurrency trading bot reacting to tweets
+<!--
   - 🔍 [Software Finder](https://gschurck.github.io/projects/software-finder/) : Innovative way to find underground softwares according to your needs
 - 📅 Planned :
   - 🐋 [Lightwhale](https://gschurck.github.io/projects/lightwhale/) : Tool to optimize Docker containers resources consumption on a local environment
+  - 💰 [Moneta](https://deta.space/discovery/@gschurck/moneta) : Portfolio and investments tracker, connected to banks and cryptocurrency exchanges -->
 
-### Areas of interest
+## Areas of interest
 
 **Almost everything in IT** : Software engineering, Web development, Cloud, Linux, Blockchain, Security...
 
-### Notable contribution
+## Notable contribution
 - Fixed Twitter OAuth2 authentication in `django-allauth` library : https://github.com/pennersr/django-allauth/pull/3365
-
+<!--
 ## Stack
 
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
@@ -67,3 +68,4 @@ Here are some ideas to get you started:
 ### Learning
 ![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=for-the-badge)
 ![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge)
+-->
