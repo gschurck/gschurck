@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 **Almost everything in IT** : Software engineering, Web development, Cloud, Linux, Blockchain, Security...
 
-## Notable contribution
+## Open source contribution
 - Fixed Twitter OAuth2 authentication in `django-allauth` library : https://github.com/pennersr/django-allauth/pull/3365
 <!--
 ## Stack
